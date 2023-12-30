@@ -1,0 +1,20 @@
+## Across
+1. for
+5. constant
+9. readlines
+12. strim
+13. while
+15. indentation
+17. colon
+
+## Down
+2. open
+3. floor
+4. int
+6. statistics
+7. with
+8. append
+10. in
+11. str
+14. round
+16. empty
