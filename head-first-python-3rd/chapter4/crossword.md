@@ -1,0 +1,21 @@
+## Across
+4. module
+7. enumerate
+8. listdir
+9. function
+12. default
+15. sorted
+16. import
+17. return
+
+## Down
+1. remove
+2. ValueError
+3. tuple
+5. def
+6. qualified
+10. if
+11. colon
+13. else
+14. triple
+16. in
