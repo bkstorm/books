@@ -1,0 +1,22 @@
+## Across
+1. extends
+4. select
+5. static
+7. templates
+10. debug
+12. flask
+15. render_template
+16. post
+17. optional
+18. jinja2
+19. option
+
+## Down
+2. main
+3. default
+6. decorator
+8. expression
+9. statement
+11. get
+13. key
+14. session
