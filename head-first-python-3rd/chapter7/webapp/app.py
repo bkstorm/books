@@ -9,7 +9,7 @@ app.secret_key = "VLp5thL?-suslprlH8Vu"
 @app.get("/")
 def index():
     return render_template("index.html",
-                           title="Welcome to the Swimclub system")
+                           title="Welcome to the Swimclub")
 
 
 def populate_data():
