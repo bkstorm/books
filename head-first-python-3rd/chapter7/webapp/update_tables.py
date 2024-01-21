@@ -4,7 +4,7 @@ db_details = "CoachDB.sqlite3"
 
 import os
 
-FOLDER = "swimdata/"
+FOLDER = "swimdata2/"
 
 files = os.listdir(FOLDER)
 files.remove(".DS_Store")
